@@ -46,35 +46,74 @@ https://openrun.site
 
 📝 주요 페이지
 ------------
-랜딩페이지
+<h2>랜딩페이지</h2>
+
 ![1 랜딩페이지 web](https://user-images.githubusercontent.com/98321807/194029380-118930e7-56cf-451f-b002-0e6fbdf3cc13.gif)
 
-메인페이지(예정)
-회원가입
+<h2>메인페이지</h2>
+
+![re 2 메인 페이지 web ](https://user-images.githubusercontent.com/98321807/194514332-fcde242f-6218-40ff-9145-b0490da02dde.gif)
+
+<h2>회원가입</h2>
+
 ![3-1  자체 회원가입 web](https://user-images.githubusercontent.com/98321807/194030009-205ca06a-14b1-41bd-8a29-476ca03305f5.gif)
-로그인
+
+<h2>로그인</h2>
+
 ![3-2 자체로그인 web ](https://user-images.githubusercontent.com/98321807/194030082-534bda3b-cc1a-411c-8bb9-202d73ded3a4.gif)
-소셜로그인
+
+<h2>소셜로그인</h2>
+
 ![3-3소셜 로그인 web ](https://user-images.githubusercontent.com/98321807/194030106-1df7ac52-3172-461f-866d-54ae989f9fcb.gif)
-게시글 목록페이지(예정)
-등록페이지
+
+<h2>게시글 목록페이지</h2>
+
+![re 4-1 게시글 목록 web ](https://user-images.githubusercontent.com/98321807/194507230-e2fec09e-0179-4908-a9c1-f8c224de75d4.gif)
+
+<h2>등록페이지</h2>
+
 ![4-2 게시물 등록 web](https://user-images.githubusercontent.com/98321807/194030492-2e55116d-35e5-45db-9dcc-3d007f2e308b.gif)
-러너 신청, 찜하기(예정)
-러너 채택
+
+<h2>러너 신청, 찜하기</h2>
+
+![re 5-1 러너 신청 , 찜하기 web](https://user-images.githubusercontent.com/98321807/194505905-72dd005d-dee7-446d-bd94-6a4c40313765.gif)
+
+<h2>러너 채택</h2>
+
 ![5-2 마이페이지에서 러너 채택하기 web](https://user-images.githubusercontent.com/98321807/194030832-f56a3f89-bb55-4bb5-a0dd-83ee85551667.gif)
-채팅하기
+
+<h2>채팅하기</h2>
+
 ![5-3 채팅하기 web](https://user-images.githubusercontent.com/98321807/194030953-c630602e-ed04-4e9e-b2b4-f169f24567e1.gif)
-거래완료
+
+<h2>거래완료</h2>
+
 ![5-4 거래완료 web](https://user-images.githubusercontent.com/98321807/194031071-87f8e41e-7123-4607-bfa3-f7609e74e6e6.gif)
-신고하기
+
+<h2>신고하기</h2>
+
 ![5-5 신고하기 web](https://user-images.githubusercontent.com/98321807/194031107-5c24d86e-9840-40c4-bcb9-7d07a5cdca99.gif)
-이벤트페이지(예정)
-마이페이지
+
+<h2>이벤트페이지</h2>
+
+![re 6 이벤트 페이지 web](https://user-images.githubusercontent.com/98321807/194504506-25177ebf-c2ba-4c5b-89dc-eca70e0b87c2.gif)
+
+<h2>마이페이지</h2>
+
 ![7-1 마이페이지 web ](https://user-images.githubusercontent.com/98321807/194031219-f40a972d-fde9-459f-b2b1-01c9a0d04cff.gif)
-포인트 충전
+
+<h2>포인트 충전</h2>
+
 ![7-2 포인트 충전 web](https://user-images.githubusercontent.com/98321807/194031269-a0761e9f-4a73-4441-8aa3-d5184cc21cda.gif)
-관리자페이지
+
+<h2>관리자페이지</h2>
+
 ![8 admin 페이지 web ](https://user-images.githubusercontent.com/98321807/194031330-69ba464c-aacf-4a53-ae35-267940a73a3e.gif)
-챗봇(예정)
-알림
+
+<h2>챗봇</h2>
+
+![re 9챗봇 web](https://user-images.githubusercontent.com/98321807/194503623-6b2ce960-ac44-4608-8372-a0883f748c94.gif)
+
+<h2>알림</h2>
+
 ![알림 web ](https://user-images.githubusercontent.com/98321807/194031817-0bd0001a-83e5-4775-9687-89857a3b37d1.gif)
